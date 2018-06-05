@@ -1,0 +1,9 @@
+
+
+
+1.git init
+2.git status
+3.git add -all
+4.git config --global user.name author #kongzixain
+5.git config --global user.email author@15218803807@163.com
+6.git commit -m '提交内容日志'
